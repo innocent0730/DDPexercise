@@ -45,12 +45,12 @@ main p{
 }
 
 main a{
-	color: white;
+	color: darkgray;
 }
 
 main a:hover{
 	background-color: white;
-	color: black;
+	color: darkgray;
 }
 
 footer{
