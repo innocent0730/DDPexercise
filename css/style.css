@@ -12,6 +12,11 @@ header{
 	padding-bottom: 50px;
 }
 
+header h1{
+	color:  darkolivegreen;
+	font-size: 50px;
+}
+
 header img{
 	border-radius: 170px;
 	width: 300px;
@@ -33,13 +38,10 @@ main h2{
 	margin: 40px 0 10px;
 }
 
-main a{
-	color: black;
-}
-
-main a:hover{
-	background-color: black;
-	color: white;
+main p{
+	margin: 0;
+	color: darkgray;
+	font-size: 20px
 }
 
 
