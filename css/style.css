@@ -44,6 +44,14 @@ main p{
 	font-size: 20px
 }
 
+main a{
+	color: white;
+}
+
+main a:hover{
+	background-color: white;
+	color: black;
+}
 
 footer{
 	background-color: lightgreen;
@@ -55,13 +63,4 @@ footer p{
 	margin: 0;
 	color:  white;
 	font-size: 20px;
-}
-
-footer a{
-	color: white;
-}
-
-footer a:hover{
-	background-color: white;
-	color: black;
 }
