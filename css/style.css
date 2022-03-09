@@ -6,14 +6,14 @@ body {
 }
 
 header{
-	background-color: lightgreen;
+	background-color: darkolivegreen;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 header h1{
-	color:  darkolivegreen;
+	color:  black;
 	font-size: 50px;
 }
 
@@ -24,7 +24,7 @@ header img{
 }
 
 main{
-	background-color: grey;
+	background-color: lightgrey;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
@@ -55,7 +55,7 @@ main a:hover{
 }
 
 footer{
-	background-color: lightgreen;
+	background-color: darkolivegreen;
 	text-align: center;
 	padding: 50px;
 }
