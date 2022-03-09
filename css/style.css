@@ -24,13 +24,14 @@ header img{
 }
 
 main{
+	background-color: grey;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
 
 main img{
-	max-width: 30%;
+	max-width: 20%;
 }
 
 main h2{
@@ -49,7 +50,7 @@ main a{
 }
 
 main a:hover{
-	background-color: white;
+	background-color: grey;
 	color: darkslategrey;
 }
 
