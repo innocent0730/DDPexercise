@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: 'League Spartan', sans-serif;
+	font-family: 'Syne Mono', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -30,7 +30,7 @@ main{
 }
 
 main img{
-	max-width: 50%;
+	max-width: 30%;
 }
 
 main h2{
@@ -40,17 +40,17 @@ main h2{
 
 main p{
 	margin: 0;
-	color: darkgray;
+	color: darkslategrey;
 	font-size: 20px
 }
 
 main a{
-	color: darkgray;
+	color: darkslategrey;
 }
 
 main a:hover{
 	background-color: white;
-	color: darkgray;
+	color: darkslategrey;
 }
 
 footer{
